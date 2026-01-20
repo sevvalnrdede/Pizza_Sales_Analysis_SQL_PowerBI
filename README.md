@@ -15,15 +15,13 @@ Power BI Desktop: Data modeling, DAX measures, and interactive dashboard design.
 Excel/CSV: Raw data management.
 
 
-Key Business Insights
-Based on the dataset, here are the actual performance results:
+Key Business Insights;
+-Revenue & Order Highlights
+Top Revenue Generator: The Thai Chicken Pizza ($43,434)
+Most Ordered Pizza: The Classic Deluxe Pizza (2,329 Orders)
+Lowest Performing Pizza: The Brie Carre Pizza ($11,588 revenue / 480 orders)
 
-Revenue & Order Highlights
-Top Revenue Generator: 🥇 The Thai Chicken Pizza ($43,434)
-Most Ordered Pizza: 📦 The Classic Deluxe Pizza (2,329 Orders)
-Lowest Performing Pizza: 📉 The Brie Carre Pizza ($11,588 revenue / 480 orders)
-
-Sales Trends
+-Sales Trends
 Weekly Patterns: Order volume peaks significantly on weekends, particularly Friday and Saturday evenings.
 Category Dominance: The Classic category leads in total order quantity.
 Size Preference: Large (L) size pizzas contribute the most to total revenue.
