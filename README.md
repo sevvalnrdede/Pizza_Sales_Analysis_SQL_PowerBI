@@ -39,3 +39,6 @@ The analysis focuses on key business metrics to drive strategic growth:
 * 📄 `pizza_sales.sql`: SQL scripts for all KPIs, trends, and product analysis.
 * 📄 `Pizza_Sales_BI_Dashboard.pbix`: The interactive Power BI report file.
 * 📄 `pizza_sales.csv`: The raw dataset used for the analysis.
+
+## 📜 License
+This project is licensed under the **MIT License** — feel free to fork, star, and use it in your portfolio
